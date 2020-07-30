@@ -1,27 +1,17 @@
 # data-visualization
 Data Visualization Toy Project (2020.07)
+Language : python(jupyter notebook)
+Library : numpy, pandas, matplotlib
 
 ### 
 #### 내용 
 데이터 시각화를 통해 시사점 도출 스토리 텔링
 #### 주 키워드
 노인
-#### 주제 후보
-- 주제 선정 배경 
-  - 코로나로 인한 자차 이용률 증가, 교통량 증가, 노인사고까지?
-- 서울시 구역별 노인 관련시설 (보호 구역)
-  - 어린이 구역이랑 노인이랑 비교, 문제제기
-    실제 교통사고 비율 
-  - 부족한점, 보호시설, 병원 배치   
-- 노인 사고 원인 도출
-
-
-
-####
-1. 노인 키워드를 가진 데이터 조사 
-  - 조건
-    - 노인
-    - 년도 2000~2020
-    
+#### 데이터 
+1. 월별 노인 교통사고
+2. 시간대별 노인 교통사고 
+3. 도로종류별 노인 교통사고 
+출처 : http://taas.koroad.or.kr/web/shp/sbm/initUnityAnalsSys.do?menuId=WEB_KMP_OVT_UAS
 
 
