@@ -12,6 +12,7 @@ Library : numpy, pandas, matplotlib
 1. 월별 노인 교통사고
 2. 시간대별 노인 교통사고 
 3. 도로종류별 노인 교통사고    
+
 출처 : http://taas.koroad.or.kr/web/shp/sbm/initUnityAnalsSys.do?menuId=WEB_KMP_OVT_UAS
 
 
