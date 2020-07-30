@@ -1,7 +1,7 @@
 # data-visualization
-Data Visualization Toy Project (2020.07)
-Language : python(jupyter notebook)
-Library : numpy, pandas, matplotlib
+Data Visualization Toy Project (2020.07)   
+Language : python(jupyter notebook)   
+Library : numpy, pandas, matplotlib   
 
 ### 
 #### 내용 
