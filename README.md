@@ -6,6 +6,7 @@ Library : numpy, pandas, matplotlib, seaborn, folium
 ### 
 #### 내용 
 서울이 과연 노인들이 살기 좋은 곳인가?   
+[발표 자료 링크](Presentation.md)
 
 #### 주 키워드
 노인
